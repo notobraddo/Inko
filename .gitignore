@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+
+# Hardhat artifacts
+artifacts/
+cache/
+
+# TypeScript artifacts
+*.tsbuildinfo
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
